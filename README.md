@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VBStamponi
-- 👀 I’m interestin  la programación
-- 🌱 I’m currently learning  las nociones básicas
-- 💞️ I’m looking to collaborate on proyectos
+- 👀 I’m interesting in developer
+- 🌱 I’m currently learning basic notions
+- 💞️ I’m looking to collaborate on proyects
 - 📫 How to reach me ...
 
 <!---
